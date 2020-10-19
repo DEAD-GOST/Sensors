@@ -8,7 +8,7 @@ data --> D1
 
 ## Image 
 * Output
-	*<img src="image/Output.png"  
+	*<img src="Output.png"  
 alt="Output"  
 style="float: left; margin-right: 10px;" />
 
